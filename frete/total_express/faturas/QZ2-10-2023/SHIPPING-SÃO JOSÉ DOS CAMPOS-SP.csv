@@ -1,0 +1,5 @@
+ ID;NF;Serie NF;Nome Fantasia;Tipo de OperaÃ§Ã£o;FATURA;AWB;ID Cliente;Nota Fiscal;Serie NF;Pedido;Destinatario;CPF;Cidade;CEP;UF;ROTA;Data Encomenda;Data Faturamento;Peso;Valor NF;Tipo Servico;VL COD;Valor Postagem;Seguro;Gris;Frete;Outros;ISS;%ISS;Frete Valor c/ ISS ; Frete c/ ISS ; %Outros C/ ISS;Total Servico
+39432;;1;LE POSTICHE - 10 - SÃO JOSÉ DOS CAMPOS;B2C;;TXAU405590365tx;;16218;10;10592331-F1;Matheus Santiago;32385584808;São José Dos Campos;12242840;SJCL;INT;2023-10-24;2023-10-25;4,37;399,99;STD;0,00;0,00;1,60;0,80;12,42;0,00;0,00;0,00;2,40;12,42;0,00;14,82;
+39432;;1;LE POSTICHE - 10 - SÃO JOSÉ DOS CAMPOS;B2C;;TXAU410721773tx;;16233;10;10593810-F1;Elisabeth Neves;97724661804;São José Dos Campos;12243680;SJCL;INT;2023-10-27;2023-10-30;2,40;449,99;STD;0,00;0,00;1,80;0,90;12,20;0,00;0,00;0,00;2,70;12,20;0,00;14,90;
+
+;;;;;;;;;;;;;;;;;;;6,77;849,98;;0,00;0,00;3,40;1,70;24,62;0,00;0,00;;5,10;24,62;0,00;29,72

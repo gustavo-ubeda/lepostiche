@@ -1,0 +1,4 @@
+ ID;NF;Serie NF;Nome Fantasia;Tipo de Operação;FATURA;AWB;ID Cliente;Nota Fiscal;Serie NF;Pedido;Destinatario;CPF;Cidade;CEP;UF;ROTA;Data Encomenda;Data Faturamento;Peso;Valor NF;Tipo Servico;VL COD;Valor Postagem;Seguro;Gris;Frete;Outros;ISS;%ISS;Frete Valor c/ ISS ; Frete c/ ISS ; %Outros C/ ISS;Total Servico
+42519;;1;LE POSTICHE - 6 - SANTOS;B2C;;TXAU395694466tx;;2833;11;10561328-F1;Shirley Soares;29743169806;Praia Grande;11703230;SP1;INT;2023-10-14;2023-10-17;2,73;299,99;STD;0,00;0,00;1,20;0,60;21,83;0,00;0,00;0,00;1,80;21,83;0,00;23,63;
+
+;;;;;;;;;;;;;;;;;;;2,73;299,99;;0,00;0,00;1,20;0,60;21,83;0,00;0,00;;1,80;21,83;0,00;23,63

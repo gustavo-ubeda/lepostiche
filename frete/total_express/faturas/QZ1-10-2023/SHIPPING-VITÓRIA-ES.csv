@@ -1,0 +1,4 @@
+ ID;NF;Serie NF;Nome Fantasia;Tipo de OperaÃ§Ã£o;FATURA;AWB;ID Cliente;Nota Fiscal;Serie NF;Pedido;Destinatario;CPF;Cidade;CEP;UF;ROTA;Data Encomenda;Data Faturamento;Peso;Valor NF;Tipo Servico;VL COD;Valor Postagem;Seguro;Gris;Frete;Outros;ISS;%ISS;Frete Valor c/ ISS ; Frete c/ ISS ; %Outros C/ ISS;Total Servico
+42521;122852;1;LE POSTICHE - 7 - VITÓRIA;B2C;;TXAU389943218tx;;1279;11;10558809-F1;robson miossi;88487008704;Vitória;29090130;ES;CAP;2023-10-09;2023-10-10;2,78;269,99;STD;0,00;0,00;1,08;0,54;14,27;0,00;0,00;0,00;1,62;14,27;0,00;15,89;
+
+;;;;;;;;;;;;;;;;;;;2,78;269,99;;0,00;0,00;1,08;0,54;14,27;0,00;0,00;;1,62;14,27;0,00;15,89

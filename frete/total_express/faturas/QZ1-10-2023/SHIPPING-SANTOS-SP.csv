@@ -1,0 +1,4 @@
+ ID;NF;Serie NF;Nome Fantasia;Tipo de Operação;FATURA;AWB;ID Cliente;Nota Fiscal;Serie NF;Pedido;Destinatario;CPF;Cidade;CEP;UF;ROTA;Data Encomenda;Data Faturamento;Peso;Valor NF;Tipo Servico;VL COD;Valor Postagem;Seguro;Gris;Frete;Outros;ISS;%ISS;Frete Valor c/ ISS ; Frete c/ ISS ; %Outros C/ ISS;Total Servico
+42519;122849;1;LE POSTICHE - 6 - SANTOS;B2C;;TXAU391554920tx;;2810;11;10559737-F1;Michele Nunes;22985652871;Praia Grande;11702020;SP1;INT;2023-10-10;2023-10-10;2,92;399,99;STD;0,00;0,00;1,60;0,80;21,83;0,00;0,00;0,00;2,40;21,83;0,00;24,23;
+
+;;;;;;;;;;;;;;;;;;;2,92;399,99;;0,00;0,00;1,60;0,80;21,83;0,00;0,00;;2,40;21,83;0,00;24,23

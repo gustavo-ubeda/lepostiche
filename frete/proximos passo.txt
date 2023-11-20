@@ -1,0 +1,23 @@
+Pq a greens tem abrangencia?
+
+Ela só tem uma cidade de destino?
+- Parametrizar todas as transportadoras com base na total
+
+Quais métricas você precisa no dashboard?
+-
+-
+-
+
+Filtrar por:
+Loja 
+Período 
+Tipo de produto (Mala, Diversos)
+Mala P, M, G
+Diferença do preço
+
+Criar tabelas para conferência
+
+Tabela de conferência com o OK da Cris
+
+Nas lojas ship        arrecadação == itens.frete
+
